@@ -1,0 +1,6 @@
+{
+  "name": "Prints for you",
+  "description": "Your Trusted Printing Partner in Delhi, India — Premium Stickers, Business Cards, Wedding Invitations, Custom Packaging & More with All India Delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
